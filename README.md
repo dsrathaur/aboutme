@@ -5,7 +5,7 @@ Security • Performance • Scalable Systems
 
 # Summary
 
-Senior WordPress & PHP Engineer with "8+ years of experience" building, securing, and scaling production web platforms for global and US-based clients. Specialized in "WordPress security remediation, performance optimization, API-driven systems, and complex WooCommerce architectures". Experienced in owning projects end-to-end and working independently in fully remote environments.
+Senior WordPress & PHP Engineer with "9 years of experience" building, securing, and scaling production web platforms for global and US-based clients. Specialized in "WordPress security remediation, performance optimization, API-driven systems, and complex WooCommerce architectures". Experienced in owning projects end-to-end and working independently in fully remote environments.
 
 ---
 
